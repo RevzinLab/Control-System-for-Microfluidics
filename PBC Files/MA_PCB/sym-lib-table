@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Amplifier_Operational)(type Legacy)(uri C:/Users/xuhai/Documents/Mayo/ControlBox/PCB/PartsLibrary/Amplifier_Operational/Amplifier_Operational.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri C:/Users/xuhai/Documents/Mayo/ControlBox/PCB/PartsLibrary/Connector/Connector.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri C:/Users/xuhai/Documents/Mayo/ControlBox/PCB/PartsLibrary/Device/Device.lib)(options "")(descr ""))
+  (lib (name Transistor_Array)(type Legacy)(uri C:/Users/xuhai/Documents/Mayo/ControlBox/PCB/PartsLibrary/Transistor_Array/Transistor_Array.lib)(options "")(descr ""))
+  (lib (name MPX2200DP)(type Legacy)(uri C:/Users/xuhai/Documents/Mayo/ControlBox/PCB/PartsLibrary/Pressure_Sensor/MPX2200DP.lib)(options "")(descr ""))
+)
